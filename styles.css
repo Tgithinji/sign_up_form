@@ -63,7 +63,7 @@ fieldset {
     gap: 10px;
 }
 
-h1, form > p {
+h1, form  p {
   text-align: center;  
 }
 
